@@ -113,11 +113,11 @@ if(NUM_LOOPS>=10)    {
 
 ## OUTPUT
 $ ./sem.o 
-![alt text](<Screenshot from 2024-04-12 19-40-55.png>)
+![alt text](<Screenshot from 2024-10-09 19-40-55.png>)
 
 $ ipcs
 
-![alt text](<Screenshot from 2024-04-12 19-41-40.png>)
+![alt text](<Screenshot from 2024-10-09 19-41-40.png>)
 
 
 # RESULT:
